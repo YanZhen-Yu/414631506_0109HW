@@ -1,0 +1,119 @@
+body {
+
+    font-family: "Microsoft JhengHei", Arial, sans-serif;
+
+    margin: 0;
+
+    background-color: #f4f4f4;
+
+    color: #333;
+
+}
+
+
+
+header {
+
+    background-color: #2c7be5;
+
+    color: white;
+
+    padding: 20px;
+
+    text-align: center;
+
+}
+
+
+
+.banner img {
+
+    width: 100%;
+
+    max-height: 350px;
+
+    object-fit: cover;
+
+}
+
+
+
+.content {
+
+    background-color: white;
+
+    max-width: 900px;
+
+    margin: 30px auto;
+
+    padding: 30px;
+
+    border-radius: 8px;
+
+}
+
+
+
+h2 {
+
+    color: #2c7be5;
+
+}
+
+
+
+ul {
+
+    line-height: 2;
+
+}
+
+
+
+.buttons {
+
+    margin-top: 20px;
+
+}
+
+
+
+.btn {
+
+    display: inline-block;
+
+    margin-right: 15px;
+
+    padding: 12px 20px;
+
+    background-color: #2c7be5;
+
+    color: white;
+
+    text-decoration: none;
+
+    border-radius: 5px;
+
+}
+
+
+
+.btn:hover {
+
+    background-color: #1a5fc4;
+
+}
+
+
+
+footer {
+
+    text-align: center;
+
+    padding: 15px;
+
+    background-color: #ddd;
+
+    margin-top: 40px;
+
+}
